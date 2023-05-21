@@ -20,6 +20,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 100px;
 
 }
 
@@ -196,7 +197,7 @@
       height: 20vh;
     }
     .banner-cabaña h1{
-      size: 1rem;
+      size: 0.8rem;
     }
     .cabañas-img{
       padding: 0;
